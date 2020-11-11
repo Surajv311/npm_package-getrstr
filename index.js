@@ -10,3 +10,4 @@ module.exports = function random(length) {
 };
 
 // console.log(random(10));
+// to get random string
