@@ -1,0 +1,11 @@
+{
+  "name": "myrandom",
+  "version": "1.1.1",
+  "description": "Generate random characters and numbers based on the length requested",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Surajv311",
+  "license": "ISC"
+}
