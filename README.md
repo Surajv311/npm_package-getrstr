@@ -30,7 +30,7 @@ $ npm install getrstr
 ## Features
 
   * Generates a string of wide variety of characters from the library.
-  * The library includes chars, numebers, special symbols. 
+  * The library includes chars, numbers, special symbols. 
   * Useful to generate strong passwords.
 
 ## Quick Start
